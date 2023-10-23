@@ -2,3 +2,5 @@ git test lr2 txt file
 Fedan Oleksandr
 
 CHANGES TO FEATURE-BRANCH
+
+REMOTE CHANGES
